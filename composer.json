@@ -1,0 +1,17 @@
+{
+    "name": "jywang/laravel-say",
+    "description": "this is a easy test",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jywang"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jywang\\Say\\": "src"
+        }
+    },
+    "require": {}
+}
